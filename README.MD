@@ -1,3 +1,10 @@
+> **Warning**
+> :exclamation: This package has moved [here](https://github.com/cognitedata/applications/tree/master/packages/eslint-config).
+
+
+_________
+
+
 # Eslint config
 
 This provides styleguide for JS/ES through eslint rules and prettier formatter.
